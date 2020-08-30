@@ -1,6 +1,6 @@
-# social_media
+# Trap_Book
 
-A new Flutter application.
+A Flutter UI for Social Media.
 
 ## Getting Started
 
